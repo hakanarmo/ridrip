@@ -1,0 +1,6 @@
+token=NTA1ODg3NzY4NDcyMzIyMDQ5.DraIsA.2CgBCFHdBIuuDkrZl_tPdFDCd4g
+owner=201460488037466112
+prefix=1
+game=1help - Dripen Joky
+stayinchannel=true
+songinstatus=true
